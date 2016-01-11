@@ -2,9 +2,8 @@
 
 Bonjour à tous,
 
-Je m'appelle *Madjid*.
-Je vis à Arles et je suis Contrôleur de Gestion pour une maison d'édition Actes Sud.
-J'ai 26 ans.
+Je m'appelle *Madjid*. J'ai 26 ans.
+Je vis à Arles où je suis Contrôleur de Gestion pour la maison d'édition Actes Sud.
 
 # Pourquoi je suis sur Simplonline ?
 Je souhaite découvrir et me perfectionner dans le code.
